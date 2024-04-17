@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.2.0](https://github.com/digger-yu/cspell-dicts/compare/@cspell/dict-sr-cyrl-v1.1.0...@cspell/dict-sr-cyrl@1.2.0) (2024-04-17)
+
+
+### Features
+
+* Add case-insensitive support ([#2469](https://github.com/digger-yu/cspell-dicts/issues/2469)) ([cb219dd](https://github.com/digger-yu/cspell-dicts/commit/cb219ddf4363ff580c3c3706973696b65d6dad0d))
+
 ## [1.1.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-sr-cyrl@1.0.2...@cspell/dict-sr-cyrl@1.1.0) (2023-09-01)
 
 
