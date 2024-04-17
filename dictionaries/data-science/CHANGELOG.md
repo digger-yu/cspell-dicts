@@ -1,5 +1,16 @@
 # Change Log
 
+## [3.0.0](https://github.com/digger-yu/cspell-dicts/compare/@cspell/dict-data-science-v2.0.0...@cspell/dict-data-science@3.0.0) (2024-04-17)
+
+
+### ⚠ BREAKING CHANGES
+
+* Split data-science terms into multiple dictionaries ([#2874](https://github.com/digger-yu/cspell-dicts/issues/2874))
+
+### Features
+
+* Split data-science terms into multiple dictionaries ([#2874](https://github.com/digger-yu/cspell-dicts/issues/2874)) ([93a8e09](https://github.com/digger-yu/cspell-dicts/commit/93a8e09727819c4a6e0576fc6d0b65e307805da8))
+
 ## [2.0.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-data-science@1.0.11...@cspell/dict-data-science@2.0.0) (2024-01-02)
 
 
