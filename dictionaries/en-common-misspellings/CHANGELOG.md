@@ -1,5 +1,23 @@
 # Change Log
 
+## [3.0.0](https://github.com/digger-yu/cspell-dicts/compare/@cspell/dict-en-common-misspellings-v2.0.3...@cspell/dict-en-common-misspellings@3.0.0) (2024-07-29)
+
+
+### ⚠ BREAKING CHANGES
+
+* Update en-common-misspellings license to CC BY-SA 4.0 ([#2716](https://github.com/digger-yu/cspell-dicts/issues/2716))
+
+### Features
+
+* Update en-common-misspellings license to CC BY-SA 4.0 ([#2716](https://github.com/digger-yu/cspell-dicts/issues/2716)) ([7a68a11](https://github.com/digger-yu/cspell-dicts/commit/7a68a11f07864660d109caa8af4d55dc18738a58))
+
+
+### Updates and Bug Fixes
+
+* fix some English spelling issues. ([#3296](https://github.com/digger-yu/cspell-dicts/issues/3296)) ([eabb25a](https://github.com/digger-yu/cspell-dicts/commit/eabb25a790c0d44b6c929cc6cc42f784c261fa11))
+* Remove lower case `colum` from English dictionaries. ([#3312](https://github.com/digger-yu/cspell-dicts/issues/3312)) ([63a84ab](https://github.com/digger-yu/cspell-dicts/commit/63a84abee92c461a9fb495d5a0060adc0fdee1a3))
+* update en-common-misspellings dict ([#3182](https://github.com/digger-yu/cspell-dicts/issues/3182)) ([d232591](https://github.com/digger-yu/cspell-dicts/commit/d23259196f44cebe9f2039e94fe10fc38972afb4))
+
 ## [2.0.3](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en-common-misspellings@2.0.2...@cspell/dict-en-common-misspellings@2.0.3) (2024-06-20)
 
 

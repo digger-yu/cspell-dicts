@@ -22,6 +22,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [3.1.3](https://github.com/digger-yu/cspell-dicts/compare/@cspell/dict-el-v3.1.2...@cspell/dict-el@3.1.3) (2024-07-29)
+
+
+### Updates and Bug Fixes
+
+* Workflow Bot -- Build Dictionaries ([#3081](https://github.com/digger-yu/cspell-dicts/issues/3081)) ([85c19d3](https://github.com/digger-yu/cspell-dicts/commit/85c19d31d453be427a465d49d5cb6abdd7d818f0))
+* Workflow Bot -- Build Dictionaries ([#3083](https://github.com/digger-yu/cspell-dicts/issues/3083)) ([e609fd5](https://github.com/digger-yu/cspell-dicts/commit/e609fd54f051334974aa09b9ad62b049a80576fe))
+* Workflow Bot -- Build Dictionaries ([#3089](https://github.com/digger-yu/cspell-dicts/issues/3089)) ([29fa5f1](https://github.com/digger-yu/cspell-dicts/commit/29fa5f1055e50e75911e5915ad188db1aca28559))
+
 ## [3.1.2](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-el@3.1.1...@cspell/dict-el@3.1.2) (2024-04-09)
 
 

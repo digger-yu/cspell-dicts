@@ -3,6 +3,34 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.2.0](https://github.com/digger-yu/cspell-dicts/compare/@cspell/dict-cpp-v5.1.12...@cspell/dict-cpp@5.2.0) (2024-07-29)
+
+
+### Features
+
+* Reduce the size of the CPP dictionary ([#2876](https://github.com/digger-yu/cspell-dicts/issues/2876)) ([f6a7c3c](https://github.com/digger-yu/cspell-dicts/commit/f6a7c3c0fecdb4010feae766df56e0034e810b87))
+
+
+### Updates and Bug Fixes
+
+* Add back some terms that got missed ([#2884](https://github.com/digger-yu/cspell-dicts/issues/2884)) ([34af92a](https://github.com/digger-yu/cspell-dicts/commit/34af92aabd97768e7bfdeb99f24c5ac1f54426ab))
+* fix some English spelling issues. ([#3296](https://github.com/digger-yu/cspell-dicts/issues/3296)) ([eabb25a](https://github.com/digger-yu/cspell-dicts/commit/eabb25a790c0d44b6c929cc6cc42f784c261fa11))
+* Fix spelling of compatiblity in CPP word list (to compatibility) ([#2969](https://github.com/digger-yu/cspell-dicts/issues/2969)) ([72eed78](https://github.com/digger-yu/cspell-dicts/commit/72eed780b32b7ad50a106f95521ee75f11324bd0))
+* Fix spelling of subsytem in CPP word list (to subsystem) ([#2970](https://github.com/digger-yu/cspell-dicts/issues/2970)) ([b44c424](https://github.com/digger-yu/cspell-dicts/commit/b44c424eff09d92e8f7364be452379f5054fc34d))
+* Support adding additional terms to the CPP dict ([#2882](https://github.com/digger-yu/cspell-dicts/issues/2882)) ([f858da5](https://github.com/digger-yu/cspell-dicts/commit/f858da5481e721a38487b5647e922aff8b38d7eb))
+* Workflow Bot -- Build Dictionaries ([#2740](https://github.com/digger-yu/cspell-dicts/issues/2740)) ([f79bf45](https://github.com/digger-yu/cspell-dicts/commit/f79bf4552b87c0e8826f9542358b84ede0ff32da))
+* Workflow Bot -- Build Dictionaries ([#2887](https://github.com/digger-yu/cspell-dicts/issues/2887)) ([7e6a88b](https://github.com/digger-yu/cspell-dicts/commit/7e6a88b7ade0656ce02d2aa0200a976848e711d5))
+* Workflow Bot -- Build Dictionaries ([#2965](https://github.com/digger-yu/cspell-dicts/issues/2965)) ([6fe573a](https://github.com/digger-yu/cspell-dicts/commit/6fe573a249fad8128bdc186e90900dc5edc98955))
+* Workflow Bot -- Build Dictionaries ([#2972](https://github.com/digger-yu/cspell-dicts/issues/2972)) ([27100c0](https://github.com/digger-yu/cspell-dicts/commit/27100c0aa654625b2ba3dfdf9785d341ee0d821a))
+* Workflow Bot -- Build Dictionaries ([#3167](https://github.com/digger-yu/cspell-dicts/issues/3167)) ([a94f73b](https://github.com/digger-yu/cspell-dicts/commit/a94f73b4ff267e143d97208cf1c93b2b772bea51))
+* Workflow Bot -- Build Dictionaries ([#3174](https://github.com/digger-yu/cspell-dicts/issues/3174)) ([0f13b2b](https://github.com/digger-yu/cspell-dicts/commit/0f13b2b983fc00f83789795a34f432b9d439152e))
+* Workflow Bot -- Build Dictionaries ([#3185](https://github.com/digger-yu/cspell-dicts/issues/3185)) ([4db7ac2](https://github.com/digger-yu/cspell-dicts/commit/4db7ac294d819233196226cf692e6438fc59462c))
+* Workflow Bot -- Build Dictionaries ([#3216](https://github.com/digger-yu/cspell-dicts/issues/3216)) ([1f48312](https://github.com/digger-yu/cspell-dicts/commit/1f483125280d927cfb94faca357f5b18baa5c29c))
+* Workflow Bot -- Build Dictionaries ([#3239](https://github.com/digger-yu/cspell-dicts/issues/3239)) ([2e775e9](https://github.com/digger-yu/cspell-dicts/commit/2e775e9bc5474bbf1b1b61fad140787a194c849c))
+* Workflow Bot -- Build Dictionaries ([#3275](https://github.com/digger-yu/cspell-dicts/issues/3275)) ([7569e95](https://github.com/digger-yu/cspell-dicts/commit/7569e956420a7aafa17467b65c0c8a3ab69751f7))
+* Workflow Bot -- Build Dictionaries ([#3396](https://github.com/digger-yu/cspell-dicts/issues/3396)) ([4702b0c](https://github.com/digger-yu/cspell-dicts/commit/4702b0cbe15a26f994232d8020f28dde2c707fd8))
+* Workflow Bot -- Build Dictionaries ([#3411](https://github.com/digger-yu/cspell-dicts/issues/3411)) ([a6adc8f](https://github.com/digger-yu/cspell-dicts/commit/a6adc8f8b867c86b315873b2dc80344d344ad8b5))
+
 ## [5.1.12](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-cpp@5.1.11...@cspell/dict-cpp@5.1.12) (2024-07-24)
 
 

@@ -3,6 +3,36 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.2.0](https://github.com/digger-yu/cspell-dicts/compare/@cspell/dict-companies-v3.1.3...@cspell/dict-companies@3.2.0) (2024-07-29)
+
+
+### Features
+
+* Add Google Dictionary ([#3193](https://github.com/digger-yu/cspell-dicts/issues/3193)) ([609f34d](https://github.com/digger-yu/cspell-dicts/commit/609f34d46b63cd66447925e75e80691f899c630e))
+
+
+### Updates and Bug Fixes
+
+* [companies] Add some company names ([#2837](https://github.com/digger-yu/cspell-dicts/issues/2837)) ([d0c7542](https://github.com/digger-yu/cspell-dicts/commit/d0c7542ebe253fe412cff7d0f4fc5ad387a6672c))
+* Add AdGuard to companies ([#2922](https://github.com/digger-yu/cspell-dicts/issues/2922)) ([80ddf7c](https://github.com/digger-yu/cspell-dicts/commit/80ddf7cf1158fff12c34c4651dd6b744f513faf0))
+* add back a few terms ([#3187](https://github.com/digger-yu/cspell-dicts/issues/3187)) ([74340db](https://github.com/digger-yu/cspell-dicts/commit/74340dbf3844307772cf1d58f23f6671380b7345))
+* add DÜRR and HOMAG to companies ([#2904](https://github.com/digger-yu/cspell-dicts/issues/2904)) ([6ad56da](https://github.com/digger-yu/cspell-dicts/commit/6ad56daccf4976ca49f9824f5baaf4212aed5cdf))
+* add Fastify and pino to libraries; Yassir to companies ([#2933](https://github.com/digger-yu/cspell-dicts/issues/2933)) ([1ed808b](https://github.com/digger-yu/cspell-dicts/commit/1ed808b4206ef131ed74d936bd8b8440e925e6c8))
+* Add missing company names and Google terms ([#3212](https://github.com/digger-yu/cspell-dicts/issues/3212)) ([1036a2c](https://github.com/digger-yu/cspell-dicts/commit/1036a2c0033d1c8788a653d1e1235ebcaab2a850))
+* add various terms ([#2734](https://github.com/digger-yu/cspell-dicts/issues/2734)) ([1058a2c](https://github.com/digger-yu/cspell-dicts/commit/1058a2c5a53bd9aa72958943062d4d454678c2f5))
+* update companies dict ([#3198](https://github.com/digger-yu/cspell-dicts/issues/3198)) ([870405b](https://github.com/digger-yu/cspell-dicts/commit/870405ba5c00b58b78724618214a8bec503e6ff9))
+* Update companies dict ([#3403](https://github.com/digger-yu/cspell-dicts/issues/3403)) ([70092ac](https://github.com/digger-yu/cspell-dicts/commit/70092acde645888c3daa9711d9f350c82a14562f))
+* Update companies dict (add Vultr) ([#3229](https://github.com/digger-yu/cspell-dicts/issues/3229)) ([38cf93c](https://github.com/digger-yu/cspell-dicts/commit/38cf93c1fdebc1de2eee944352eec2ccfc88104a))
+* update companies dictionary ([#3180](https://github.com/digger-yu/cspell-dicts/issues/3180)) ([01d3c90](https://github.com/digger-yu/cspell-dicts/commit/01d3c909f8f7c51249566d604bf9ba75620f0209))
+* Workflow Bot -- Build Dictionaries ([#2735](https://github.com/digger-yu/cspell-dicts/issues/2735)) ([ef0afb1](https://github.com/digger-yu/cspell-dicts/commit/ef0afb1582802bd7705cb62ae8c6c6f939921b30))
+* Workflow Bot -- Build Dictionaries ([#2843](https://github.com/digger-yu/cspell-dicts/issues/2843)) ([d430c85](https://github.com/digger-yu/cspell-dicts/commit/d430c8564e2238615ebc0a83aeaa941a499b9360))
+* Workflow Bot -- Build Dictionaries ([#2908](https://github.com/digger-yu/cspell-dicts/issues/2908)) ([7de1cd4](https://github.com/digger-yu/cspell-dicts/commit/7de1cd4566022d6a84b7e259d6e339237abeff8f))
+* Workflow Bot -- Build Dictionaries ([#2923](https://github.com/digger-yu/cspell-dicts/issues/2923)) ([32be666](https://github.com/digger-yu/cspell-dicts/commit/32be666d99a24ddcfe881003e29f19a5f2a5abb0))
+* Workflow Bot -- Build Dictionaries ([#2938](https://github.com/digger-yu/cspell-dicts/issues/2938)) ([8ee345f](https://github.com/digger-yu/cspell-dicts/commit/8ee345f662d36f170d46fca959f6245de9c7d91c))
+* Workflow Bot -- Build Dictionaries ([#3216](https://github.com/digger-yu/cspell-dicts/issues/3216)) ([1f48312](https://github.com/digger-yu/cspell-dicts/commit/1f483125280d927cfb94faca357f5b18baa5c29c))
+* Workflow Bot -- Build Dictionaries ([#3233](https://github.com/digger-yu/cspell-dicts/issues/3233)) ([77ce4fd](https://github.com/digger-yu/cspell-dicts/commit/77ce4fd2d8eb7b379b701c63614a5cfb565c03ec))
+* Workflow Bot -- Build Dictionaries ([#3405](https://github.com/digger-yu/cspell-dicts/issues/3405)) ([8624bcb](https://github.com/digger-yu/cspell-dicts/commit/8624bcbce44dad3fb99bb0ae446df08f377e1679))
+
 ## [3.1.3](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-companies@3.1.2...@cspell/dict-companies@3.1.3) (2024-07-23)
 
 
