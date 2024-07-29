@@ -3,6 +3,93 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.0.0](https://github.com/digger-yu/cspell-dicts/compare/@cspell/dict-software-terms-v4.0.3...@cspell/dict-software-terms@5.0.0) (2024-07-29)
+
+
+### ⚠ BREAKING CHANGES
+
+* Add corrections to software-terms ([#3393](https://github.com/digger-yu/cspell-dicts/issues/3393))
+
+### Features
+
+* Add corrections to software-terms ([#3393](https://github.com/digger-yu/cspell-dicts/issues/3393)) ([1c9b80c](https://github.com/digger-yu/cspell-dicts/commit/1c9b80ca793cf44d82f18409c335181f97ee695a))
+* Extend software-terms dictionary w/ cybersecurity terms ([#3237](https://github.com/digger-yu/cspell-dicts/issues/3237)) ([1d8bd69](https://github.com/digger-yu/cspell-dicts/commit/1d8bd69a5f80019e09e77c285e626cdea14fe99c))
+
+
+### Updates and Bug Fixes
+
+* Add "datasources" to software-terms dict ([#2814](https://github.com/digger-yu/cspell-dicts/issues/2814)) ([a2dcbe9](https://github.com/digger-yu/cspell-dicts/commit/a2dcbe9312666b3fcbba9fd03436dd219d272d0b))
+* add "kanban" to software terms ([#3107](https://github.com/digger-yu/cspell-dicts/issues/3107)) ([eb488c5](https://github.com/digger-yu/cspell-dicts/commit/eb488c5adf76621f44ba47cc4517e2065375c5cb))
+* add `evaluatable` to software terms ([#2848](https://github.com/digger-yu/cspell-dicts/issues/2848)) ([bce7b40](https://github.com/digger-yu/cspell-dicts/commit/bce7b40b60988f60d22b2b19df2be4898ceb9705))
+* add `iife` to TypeScript dictionary ([#3124](https://github.com/digger-yu/cspell-dicts/issues/3124)) ([ce98df3](https://github.com/digger-yu/cspell-dicts/commit/ce98df375754f2be85c1dbfea512e5dfabb7089f))
+* Add a few common software terms ([#2738](https://github.com/digger-yu/cspell-dicts/issues/2738)) ([153ceb2](https://github.com/digger-yu/cspell-dicts/commit/153ceb286019f9b5741c12d3caf0e86ce866c67b))
+* add back a few terms ([#3187](https://github.com/digger-yu/cspell-dicts/issues/3187)) ([74340db](https://github.com/digger-yu/cspell-dicts/commit/74340dbf3844307772cf1d58f23f6671380b7345))
+* Add back some terms that got missed ([#2884](https://github.com/digger-yu/cspell-dicts/issues/2884)) ([34af92a](https://github.com/digger-yu/cspell-dicts/commit/34af92aabd97768e7bfdeb99f24c5ac1f54426ab))
+* Add diarization ([#2888](https://github.com/digger-yu/cspell-dicts/issues/2888)) ([865d13d](https://github.com/digger-yu/cspell-dicts/commit/865d13d9b7ab685192450ac58b836fbd2017ec27))
+* add Lexer to Software Terms dictionaries ([#3266](https://github.com/digger-yu/cspell-dicts/issues/3266)) ([341fcb1](https://github.com/digger-yu/cspell-dicts/commit/341fcb138930e97c0149305ec823e45e41b1c39b))
+* Add more coding terms ([#3172](https://github.com/digger-yu/cspell-dicts/issues/3172)) ([0e737b4](https://github.com/digger-yu/cspell-dicts/commit/0e737b4048957774f353f4690588403a4c126294))
+* Add more Hex Speak terms ([#3330](https://github.com/digger-yu/cspell-dicts/issues/3330)) ([9b0005f](https://github.com/digger-yu/cspell-dicts/commit/9b0005f4cb61c107c722632707b985b1d8987db9))
+* add pbcopy and pbpaste to software terms ([#2729](https://github.com/digger-yu/cspell-dicts/issues/2729)) ([7729782](https://github.com/digger-yu/cspell-dicts/commit/772978293171e926591d4a36549dcc6b11b74557))
+* add Pseudocode ([#2745](https://github.com/digger-yu/cspell-dicts/issues/2745)) ([0d16908](https://github.com/digger-yu/cspell-dicts/commit/0d1690847bf6745d67f281b9cae29f57e98a4222))
+* Add some common coding terms ([#3165](https://github.com/digger-yu/cspell-dicts/issues/3165)) ([99a10bc](https://github.com/digger-yu/cspell-dicts/commit/99a10bc436b1b1b6e1922b8a152aff33a6f09ada))
+* Add some full stack related terms ([#3415](https://github.com/digger-yu/cspell-dicts/issues/3415)) ([94b3556](https://github.com/digger-yu/cspell-dicts/commit/94b355671d87cd6a8691c1fbae5cefba9a3a5170))
+* Add some Gitleaks, Slack API, and Trivy terms ([#2824](https://github.com/digger-yu/cspell-dicts/issues/2824)) ([5207c1f](https://github.com/digger-yu/cspell-dicts/commit/5207c1f360fbd970fe9794675daf132bc0581ff1))
+* Add some missing IT & software related terms ([#2820](https://github.com/digger-yu/cspell-dicts/issues/2820)) ([936d4be](https://github.com/digger-yu/cspell-dicts/commit/936d4bebbe8f7e8ba33956dcbd5016c48e2c1967))
+* Add some software coding terms ([#3409](https://github.com/digger-yu/cspell-dicts/issues/3409)) ([5674a63](https://github.com/digger-yu/cspell-dicts/commit/5674a638f252698cb44ee9ee92fa8de6e0565ae8))
+* add to software-terms dictionary ([#3280](https://github.com/digger-yu/cspell-dicts/issues/3280)) ([adfd62d](https://github.com/digger-yu/cspell-dicts/commit/adfd62dc781818d29a97a25ed4b9b8198bf0c252))
+* Add to softwareTerms dictionary ([#3380](https://github.com/digger-yu/cspell-dicts/issues/3380)) ([fc4b30a](https://github.com/digger-yu/cspell-dicts/commit/fc4b30ad4e443ce837f2a3dbf2e911c38e5f16cc))
+* Add tokio ([#3282](https://github.com/digger-yu/cspell-dicts/issues/3282)) ([7c330ee](https://github.com/digger-yu/cspell-dicts/commit/7c330ee8fa9de714b60738f92a483309f261619f))
+* add typeahead to software terms ([#2978](https://github.com/digger-yu/cspell-dicts/issues/2978)) ([3e8d2ed](https://github.com/digger-yu/cspell-dicts/commit/3e8d2ed3fad0f35d57d791d10dd71f94e7bfea86))
+* add various terms ([#2734](https://github.com/digger-yu/cspell-dicts/issues/2734)) ([1058a2c](https://github.com/digger-yu/cspell-dicts/commit/1058a2c5a53bd9aa72958943062d4d454678c2f5))
+* added a few software words, mostly quality attributes. ([#2782](https://github.com/digger-yu/cspell-dicts/issues/2782)) ([b3fb2f0](https://github.com/digger-yu/cspell-dicts/commit/b3fb2f02997695104e2cd350b47496aab3aa8a2e))
+* **software-terms:** add softphone(s) ([#3399](https://github.com/digger-yu/cspell-dicts/issues/3399)) ([c41dce5](https://github.com/digger-yu/cspell-dicts/commit/c41dce565a6dbb572c8c49fb45ae766d80e17907))
+* **software-terms:** voxel ([#2959](https://github.com/digger-yu/cspell-dicts/issues/2959)) ([dc4644f](https://github.com/digger-yu/cspell-dicts/commit/dc4644f83e4b1b14e99c89995b59e3b246daa281))
+* **software-tools:** add upstash ([#3255](https://github.com/digger-yu/cspell-dicts/issues/3255)) ([3d609fd](https://github.com/digger-yu/cspell-dicts/commit/3d609fd2a0a2d7c899bd0c480d4393ba446aa046))
+* Update coding-terms.txt ([#3310](https://github.com/digger-yu/cspell-dicts/issues/3310)) ([98e571a](https://github.com/digger-yu/cspell-dicts/commit/98e571abb3757ece639b3a9349016af612be3f05))
+* update software-terms dict ([#3183](https://github.com/digger-yu/cspell-dicts/issues/3183)) ([0d235ca](https://github.com/digger-yu/cspell-dicts/commit/0d235ca3b04c242edc132c9b113442354c4b314e))
+* update software-terms dict ([#3203](https://github.com/digger-yu/cspell-dicts/issues/3203)) ([bdf10d1](https://github.com/digger-yu/cspell-dicts/commit/bdf10d17f26cb94a4128155376a4f3c94679dffd))
+* update software-terms dict ([#3221](https://github.com/digger-yu/cspell-dicts/issues/3221)) ([9bb9747](https://github.com/digger-yu/cspell-dicts/commit/9bb9747677de331b175723a9e71144513adb5b0e))
+* update software-terms dict ([#3242](https://github.com/digger-yu/cspell-dicts/issues/3242)) ([4bca32a](https://github.com/digger-yu/cspell-dicts/commit/4bca32a7d167a46ab4b056bf66c39d9d6210fd71))
+* Update software-terms dict ([#3332](https://github.com/digger-yu/cspell-dicts/issues/3332)) ([7a6a7f8](https://github.com/digger-yu/cspell-dicts/commit/7a6a7f8da7408fe5604533259e1b59c6bff5dc37))
+* Update software-terms dict ([#3404](https://github.com/digger-yu/cspell-dicts/issues/3404)) ([feb83a7](https://github.com/digger-yu/cspell-dicts/commit/feb83a76b09e19b69b2f81e70262f8dde2f795df))
+* Update software-terms dictionary ([#3273](https://github.com/digger-yu/cspell-dicts/issues/3273)) ([c85a832](https://github.com/digger-yu/cspell-dicts/commit/c85a832fc8cb7ab5a737ce5ff711d4f0fbc06dd0))
+* Update software-terms dictionary (add XFS, CSAT) ([#3286](https://github.com/digger-yu/cspell-dicts/issues/3286)) ([6607508](https://github.com/digger-yu/cspell-dicts/commit/6607508280e9246f93d6749e4e44e1e6abc48ee1))
+* Update software-tools dict (add dogstatsd, VPS) ([#3231](https://github.com/digger-yu/cspell-dicts/issues/3231)) ([3bf66d5](https://github.com/digger-yu/cspell-dicts/commit/3bf66d5fabfd6925bf8f15c2a934e94cf56bbf42))
+* Workflow Bot -- Build Dictionaries ([#2731](https://github.com/digger-yu/cspell-dicts/issues/2731)) ([c8fcb7c](https://github.com/digger-yu/cspell-dicts/commit/c8fcb7c9b5e3adf1f977634ca81802d69d20749b))
+* Workflow Bot -- Build Dictionaries ([#2735](https://github.com/digger-yu/cspell-dicts/issues/2735)) ([ef0afb1](https://github.com/digger-yu/cspell-dicts/commit/ef0afb1582802bd7705cb62ae8c6c6f939921b30))
+* Workflow Bot -- Build Dictionaries ([#2740](https://github.com/digger-yu/cspell-dicts/issues/2740)) ([f79bf45](https://github.com/digger-yu/cspell-dicts/commit/f79bf4552b87c0e8826f9542358b84ede0ff32da))
+* Workflow Bot -- Build Dictionaries ([#2750](https://github.com/digger-yu/cspell-dicts/issues/2750)) ([ab999a5](https://github.com/digger-yu/cspell-dicts/commit/ab999a5c714dc6c003029daae1a06df0beb47a61))
+* Workflow Bot -- Build Dictionaries ([#2784](https://github.com/digger-yu/cspell-dicts/issues/2784)) ([f9698b3](https://github.com/digger-yu/cspell-dicts/commit/f9698b3adbdf5a7638c2e8f668b448d6f9ec5f7a))
+* Workflow Bot -- Build Dictionaries ([#2816](https://github.com/digger-yu/cspell-dicts/issues/2816)) ([ef4df30](https://github.com/digger-yu/cspell-dicts/commit/ef4df300933961d90e048cfcb89c3ca9bd3c9630))
+* Workflow Bot -- Build Dictionaries ([#2826](https://github.com/digger-yu/cspell-dicts/issues/2826)) ([2dddf85](https://github.com/digger-yu/cspell-dicts/commit/2dddf855327d88af4134e0a609fc91b74c45efb6))
+* Workflow Bot -- Build Dictionaries ([#2829](https://github.com/digger-yu/cspell-dicts/issues/2829)) ([b4ecdae](https://github.com/digger-yu/cspell-dicts/commit/b4ecdaeca74e12036f812c714411f61918fab5c7))
+* Workflow Bot -- Build Dictionaries ([#2849](https://github.com/digger-yu/cspell-dicts/issues/2849)) ([4615e6e](https://github.com/digger-yu/cspell-dicts/commit/4615e6e42f2a0806416ff45a6279e6e3fd6544b6))
+* Workflow Bot -- Build Dictionaries ([#2887](https://github.com/digger-yu/cspell-dicts/issues/2887)) ([7e6a88b](https://github.com/digger-yu/cspell-dicts/commit/7e6a88b7ade0656ce02d2aa0200a976848e711d5))
+* Workflow Bot -- Build Dictionaries ([#2889](https://github.com/digger-yu/cspell-dicts/issues/2889)) ([614618f](https://github.com/digger-yu/cspell-dicts/commit/614618fb1e03e7094a4ffae0a0b56fdfbf3089f2))
+* Workflow Bot -- Build Dictionaries ([#2963](https://github.com/digger-yu/cspell-dicts/issues/2963)) ([e5b5682](https://github.com/digger-yu/cspell-dicts/commit/e5b5682e112fe8f888a399016932972fc7763aa2))
+* Workflow Bot -- Build Dictionaries ([#2982](https://github.com/digger-yu/cspell-dicts/issues/2982)) ([28d4083](https://github.com/digger-yu/cspell-dicts/commit/28d4083c238b330772186ff7bb25f8ace97e8e61))
+* Workflow Bot -- Build Dictionaries ([#3110](https://github.com/digger-yu/cspell-dicts/issues/3110)) ([d5ee05d](https://github.com/digger-yu/cspell-dicts/commit/d5ee05dfa61e68f8703db822ca9d074a4625d945))
+* Workflow Bot -- Build Dictionaries ([#3126](https://github.com/digger-yu/cspell-dicts/issues/3126)) ([8870263](https://github.com/digger-yu/cspell-dicts/commit/8870263e94f9076c7cd250d303e6d171dc7a878d))
+* Workflow Bot -- Build Dictionaries ([#3167](https://github.com/digger-yu/cspell-dicts/issues/3167)) ([a94f73b](https://github.com/digger-yu/cspell-dicts/commit/a94f73b4ff267e143d97208cf1c93b2b772bea51))
+* Workflow Bot -- Build Dictionaries ([#3174](https://github.com/digger-yu/cspell-dicts/issues/3174)) ([0f13b2b](https://github.com/digger-yu/cspell-dicts/commit/0f13b2b983fc00f83789795a34f432b9d439152e))
+* Workflow Bot -- Build Dictionaries ([#3185](https://github.com/digger-yu/cspell-dicts/issues/3185)) ([4db7ac2](https://github.com/digger-yu/cspell-dicts/commit/4db7ac294d819233196226cf692e6438fc59462c))
+* Workflow Bot -- Build Dictionaries ([#3216](https://github.com/digger-yu/cspell-dicts/issues/3216)) ([1f48312](https://github.com/digger-yu/cspell-dicts/commit/1f483125280d927cfb94faca357f5b18baa5c29c))
+* Workflow Bot -- Build Dictionaries ([#3224](https://github.com/digger-yu/cspell-dicts/issues/3224)) ([5b32489](https://github.com/digger-yu/cspell-dicts/commit/5b3248981ddba36972c1673bc3fa36d027b07151))
+* Workflow Bot -- Build Dictionaries ([#3233](https://github.com/digger-yu/cspell-dicts/issues/3233)) ([77ce4fd](https://github.com/digger-yu/cspell-dicts/commit/77ce4fd2d8eb7b379b701c63614a5cfb565c03ec))
+* Workflow Bot -- Build Dictionaries ([#3239](https://github.com/digger-yu/cspell-dicts/issues/3239)) ([2e775e9](https://github.com/digger-yu/cspell-dicts/commit/2e775e9bc5474bbf1b1b61fad140787a194c849c))
+* Workflow Bot -- Build Dictionaries ([#3245](https://github.com/digger-yu/cspell-dicts/issues/3245)) ([6da813f](https://github.com/digger-yu/cspell-dicts/commit/6da813f91399cb061ff722cf55a99a6d6184a464))
+* Workflow Bot -- Build Dictionaries ([#3258](https://github.com/digger-yu/cspell-dicts/issues/3258)) ([4e49a5d](https://github.com/digger-yu/cspell-dicts/commit/4e49a5daa2dd862b70cb8dc0de9bcdee9a5a85ac))
+* Workflow Bot -- Build Dictionaries ([#3275](https://github.com/digger-yu/cspell-dicts/issues/3275)) ([7569e95](https://github.com/digger-yu/cspell-dicts/commit/7569e956420a7aafa17467b65c0c8a3ab69751f7))
+* Workflow Bot -- Build Dictionaries ([#3279](https://github.com/digger-yu/cspell-dicts/issues/3279)) ([236f6ac](https://github.com/digger-yu/cspell-dicts/commit/236f6ac6fa91867502ded6473a09161cc5955e05))
+* Workflow Bot -- Build Dictionaries ([#3288](https://github.com/digger-yu/cspell-dicts/issues/3288)) ([ccb2c9b](https://github.com/digger-yu/cspell-dicts/commit/ccb2c9b43c404be5f4017828850ca4c32cc0cb43))
+* Workflow Bot -- Build Dictionaries ([#3314](https://github.com/digger-yu/cspell-dicts/issues/3314)) ([5e9d5e3](https://github.com/digger-yu/cspell-dicts/commit/5e9d5e3663e4eb21c683932108453e67d86919c3))
+* Workflow Bot -- Build Dictionaries ([#3331](https://github.com/digger-yu/cspell-dicts/issues/3331)) ([783a59e](https://github.com/digger-yu/cspell-dicts/commit/783a59e2cba2f1c070ab5c83003c20e77f9525bc))
+* Workflow Bot -- Build Dictionaries ([#3334](https://github.com/digger-yu/cspell-dicts/issues/3334)) ([0c4b198](https://github.com/digger-yu/cspell-dicts/commit/0c4b19819e267fd668e1a0cf73bc746354b5bea8))
+* Workflow Bot -- Build Dictionaries ([#3396](https://github.com/digger-yu/cspell-dicts/issues/3396)) ([4702b0c](https://github.com/digger-yu/cspell-dicts/commit/4702b0cbe15a26f994232d8020f28dde2c707fd8))
+* Workflow Bot -- Build Dictionaries ([#3401](https://github.com/digger-yu/cspell-dicts/issues/3401)) ([37c9abe](https://github.com/digger-yu/cspell-dicts/commit/37c9abea15db89c340e7bee20c10cbfb71a9ceb7))
+* Workflow Bot -- Build Dictionaries ([#3405](https://github.com/digger-yu/cspell-dicts/issues/3405)) ([8624bcb](https://github.com/digger-yu/cspell-dicts/commit/8624bcbce44dad3fb99bb0ae446df08f377e1679))
+* Workflow Bot -- Build Dictionaries ([#3411](https://github.com/digger-yu/cspell-dicts/issues/3411)) ([a6adc8f](https://github.com/digger-yu/cspell-dicts/commit/a6adc8f8b867c86b315873b2dc80344d344ad8b5))
+
 ## [4.0.3](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-software-terms@4.0.2...@cspell/dict-software-terms@4.0.3) (2024-07-25)
 
 

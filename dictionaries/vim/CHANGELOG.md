@@ -1,5 +1,16 @@
 # Change Log
 
+## [1.0.5](https://github.com/digger-yu/cspell-dicts/compare/@cspell/dict-vim-v1.0.4...@cspell/dict-vim@1.0.5) (2024-07-29)
+
+
+### Updates and Bug Fixes
+
+* add isempty to vim dict ([#2728](https://github.com/digger-yu/cspell-dicts/issues/2728)) ([a802ad8](https://github.com/digger-yu/cspell-dicts/commit/a802ad8c42c583abde8aefce0aae3e8bdcb775aa))
+* **vim-dictionary:** add qflist ([#3097](https://github.com/digger-yu/cspell-dicts/issues/3097)) ([457201a](https://github.com/digger-yu/cspell-dicts/commit/457201a7761e0714d3b0e53bd3034de0492df530))
+* **vim-dictionary:** add setreg ([#3053](https://github.com/digger-yu/cspell-dicts/issues/3053)) ([4057c57](https://github.com/digger-yu/cspell-dicts/commit/4057c57bcb2efee83acf02a5d50433ff55560ffe))
+* Workflow Bot -- Build Dictionaries ([#2731](https://github.com/digger-yu/cspell-dicts/issues/2731)) ([c8fcb7c](https://github.com/digger-yu/cspell-dicts/commit/c8fcb7c9b5e3adf1f977634ca81802d69d20749b))
+* Workflow Bot -- Build Dictionaries ([#3055](https://github.com/digger-yu/cspell-dicts/issues/3055)) ([55faa30](https://github.com/digger-yu/cspell-dicts/commit/55faa3099cd6cff9ced123b60ea522103f92a38f))
+
 ## [1.0.4](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-vim@1.0.3...@cspell/dict-vim@1.0.4) (2024-04-13)
 
 
