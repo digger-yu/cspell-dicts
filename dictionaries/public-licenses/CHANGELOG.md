@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.9](https://github.com/digger-yu/cspell-dicts/compare/@cspell/dict-public-licenses-v2.0.8...@cspell/dict-public-licenses@2.0.9) (2024-09-20)
+
+
+### Updates and Bug Fixes
+
+* Workflow Bot -- Build Dictionaries ([#2999](https://github.com/digger-yu/cspell-dicts/issues/2999)) ([be5878e](https://github.com/digger-yu/cspell-dicts/commit/be5878ec21728dfc833917959e549b93d9d0e9b1))
+* Workflow Bot -- Build Dictionaries ([#3218](https://github.com/digger-yu/cspell-dicts/issues/3218)) ([55ed084](https://github.com/digger-yu/cspell-dicts/commit/55ed0840e249a9899b7a0501cfbd03566462c80f))
+* Workflow Bot -- Build Dictionaries ([#3482](https://github.com/digger-yu/cspell-dicts/issues/3482)) ([e83d0a8](https://github.com/digger-yu/cspell-dicts/commit/e83d0a895762a6a64ab46de83fd3441e0287c8a3))
+
 ## [2.0.8](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-public-licenses@2.0.7...@cspell/dict-public-licenses@2.0.8) (2024-08-21)
 
 

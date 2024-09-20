@@ -22,6 +22,17 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [4.0.5](https://github.com/digger-yu/cspell-dicts/compare/@cspell/dict-aws-v4.0.4...@cspell/dict-aws@4.0.5) (2024-09-20)
+
+
+### Updates and Bug Fixes
+
+* Add to aws dictionary ([#3379](https://github.com/digger-yu/cspell-dicts/issues/3379)) ([2781d17](https://github.com/digger-yu/cspell-dicts/commit/2781d17fa245ddb019055811e2c676ae40213bc3))
+* update aws dict ([#3197](https://github.com/digger-yu/cspell-dicts/issues/3197)) ([3142aa5](https://github.com/digger-yu/cspell-dicts/commit/3142aa59b89e0d708363fbc68ad7a0a91053da0e))
+* update to aws, bash, and terraform dictionaries ([#3511](https://github.com/digger-yu/cspell-dicts/issues/3511)) ([60ce322](https://github.com/digger-yu/cspell-dicts/commit/60ce322b1efc569cc44df8ef1d2718fb9dccd2f1))
+* Workflow Bot -- Build Dictionaries ([#3205](https://github.com/digger-yu/cspell-dicts/issues/3205)) ([8a56dba](https://github.com/digger-yu/cspell-dicts/commit/8a56dba2acc59b9b1345d7657cd7aefcb4932824))
+* Workflow Bot -- Build Dictionaries ([#3513](https://github.com/digger-yu/cspell-dicts/issues/3513)) ([dd62160](https://github.com/digger-yu/cspell-dicts/commit/dd621602b82bf6fbaab9a927614d440642a9bc13))
+
 ## [4.0.4](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-aws@4.0.3...@cspell/dict-aws@4.0.4) (2024-08-27)
 
 

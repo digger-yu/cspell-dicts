@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.0.6](https://github.com/digger-yu/cspell-dicts/compare/@cspell/dict-dotnet-v5.0.5...@cspell/dict-dotnet@5.0.6) (2024-09-20)
+
+
+### Updates and Bug Fixes
+
+* Add a few coding terms ([#3503](https://github.com/digger-yu/cspell-dicts/issues/3503)) ([7b52c8d](https://github.com/digger-yu/cspell-dicts/commit/7b52c8d6409ba5dbb60e72c2e290ff7e0bf02675))
+* Workflow Bot -- Build Dictionaries ([#3167](https://github.com/digger-yu/cspell-dicts/issues/3167)) ([a94f73b](https://github.com/digger-yu/cspell-dicts/commit/a94f73b4ff267e143d97208cf1c93b2b772bea51))
+* Workflow Bot -- Build Dictionaries ([#3174](https://github.com/digger-yu/cspell-dicts/issues/3174)) ([0f13b2b](https://github.com/digger-yu/cspell-dicts/commit/0f13b2b983fc00f83789795a34f432b9d439152e))
+* Workflow Bot -- Build Dictionaries ([#3487](https://github.com/digger-yu/cspell-dicts/issues/3487)) ([7e24140](https://github.com/digger-yu/cspell-dicts/commit/7e24140a4d6866e11c14580102211847ad68bd52))
+* Workflow Bot -- Build Dictionaries ([#3502](https://github.com/digger-yu/cspell-dicts/issues/3502)) ([8e84a1a](https://github.com/digger-yu/cspell-dicts/commit/8e84a1a7dd297f136b670c772634d476fbc7c762))
+* Workflow Bot -- Build Dictionaries ([#3510](https://github.com/digger-yu/cspell-dicts/issues/3510)) ([a684808](https://github.com/digger-yu/cspell-dicts/commit/a684808a8e36f8fb5c5b2d282dc336206b520cd7))
+
 ## [5.0.5](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-dotnet@5.0.4...@cspell/dict-dotnet@5.0.5) (2024-08-26)
 
 

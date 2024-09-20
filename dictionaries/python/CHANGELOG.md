@@ -3,6 +3,27 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.3.0](https://github.com/digger-yu/cspell-dicts/compare/@cspell/dict-python-v4.2.6...@cspell/dict-python@4.3.0) (2024-09-20)
+
+
+### Features
+
+* reduce the size of the python dictionary ([#3259](https://github.com/digger-yu/cspell-dicts/issues/3259)) ([a9c1302](https://github.com/digger-yu/cspell-dicts/commit/a9c1302ab3d27b29a8eeb2e019cbc7364ccd1192))
+
+
+### Updates and Bug Fixes
+
+* Add back some legacy terms ([#3261](https://github.com/digger-yu/cspell-dicts/issues/3261)) ([346ddf8](https://github.com/digger-yu/cspell-dicts/commit/346ddf8d4e0e3b4f89fcf75ea85a765f01c17a5e))
+* Issue [#972](https://github.com/digger-yu/cspell-dicts/issues/972): Add common python package names to exception list ([#3256](https://github.com/digger-yu/cspell-dicts/issues/3256)) ([0918dc3](https://github.com/digger-yu/cspell-dicts/commit/0918dc3f4a6ae9b339eeab2900eb7b7df6a5c647))
+* make sure constraints.txt includes python dict ([#3515](https://github.com/digger-yu/cspell-dicts/issues/3515)) ([dbf2955](https://github.com/digger-yu/cspell-dicts/commit/dbf29555b9a49b71e038224a0dbed4e3a677405e))
+* Update software-terms ([#3506](https://github.com/digger-yu/cspell-dicts/issues/3506)) ([5d8c9c5](https://github.com/digger-yu/cspell-dicts/commit/5d8c9c56567417c5ef7de3e29ac62623f27e2a63))
+* Workflow Bot -- Build Dictionaries ([#3258](https://github.com/digger-yu/cspell-dicts/issues/3258)) ([4e49a5d](https://github.com/digger-yu/cspell-dicts/commit/4e49a5daa2dd862b70cb8dc0de9bcdee9a5a85ac))
+* Workflow Bot -- Build Dictionaries ([#3263](https://github.com/digger-yu/cspell-dicts/issues/3263)) ([9ade3b6](https://github.com/digger-yu/cspell-dicts/commit/9ade3b6d1f55bbbd6d9a239c5ecf04c247df0443))
+* Workflow Bot -- Build Dictionaries ([#3405](https://github.com/digger-yu/cspell-dicts/issues/3405)) ([8624bcb](https://github.com/digger-yu/cspell-dicts/commit/8624bcbce44dad3fb99bb0ae446df08f377e1679))
+* Workflow Bot -- Build Dictionaries ([#3411](https://github.com/digger-yu/cspell-dicts/issues/3411)) ([a6adc8f](https://github.com/digger-yu/cspell-dicts/commit/a6adc8f8b867c86b315873b2dc80344d344ad8b5))
+* Workflow Bot -- Build Dictionaries ([#3443](https://github.com/digger-yu/cspell-dicts/issues/3443)) ([6d7eb6f](https://github.com/digger-yu/cspell-dicts/commit/6d7eb6fd4340b0b49a688df7cd866780d5d80759))
+* Workflow Bot -- Build Dictionaries ([#3510](https://github.com/digger-yu/cspell-dicts/issues/3510)) ([a684808](https://github.com/digger-yu/cspell-dicts/commit/a684808a8e36f8fb5c5b2d282dc336206b520cd7))
+
 ## [4.2.6](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-python@4.2.5...@cspell/dict-python@4.2.6) (2024-08-27)
 
 

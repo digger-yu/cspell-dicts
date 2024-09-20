@@ -3,6 +3,20 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.1.24](https://github.com/digger-yu/cspell-dicts/compare/@cspell/dict-en-gb-mit-v2.1.23...@cspell/dict-en-gb-mit@2.1.24) (2024-09-20)
+
+
+### Updates and Bug Fixes
+
+* fix some English spelling issues. ([#3296](https://github.com/digger-yu/cspell-dicts/issues/3296)) ([eabb25a](https://github.com/digger-yu/cspell-dicts/commit/eabb25a790c0d44b6c929cc6cc42f784c261fa11))
+* Remove lower case `colum` from English dictionaries. ([#3312](https://github.com/digger-yu/cspell-dicts/issues/3312)) ([63a84ab](https://github.com/digger-yu/cspell-dicts/commit/63a84abee92c461a9fb495d5a0060adc0fdee1a3))
+* Workflow Bot -- Build Dictionaries ([#2963](https://github.com/digger-yu/cspell-dicts/issues/2963)) ([e5b5682](https://github.com/digger-yu/cspell-dicts/commit/e5b5682e112fe8f888a399016932972fc7763aa2))
+* Workflow Bot -- Build Dictionaries ([#2999](https://github.com/digger-yu/cspell-dicts/issues/2999)) ([be5878e](https://github.com/digger-yu/cspell-dicts/commit/be5878ec21728dfc833917959e549b93d9d0e9b1))
+* Workflow Bot -- Build Dictionaries ([#3017](https://github.com/digger-yu/cspell-dicts/issues/3017)) ([8cc7fa1](https://github.com/digger-yu/cspell-dicts/commit/8cc7fa1fcc3a59cff7ee82b7cd9452e5ae724729))
+* Workflow Bot -- Build Dictionaries ([#3103](https://github.com/digger-yu/cspell-dicts/issues/3103)) ([02c05e3](https://github.com/digger-yu/cspell-dicts/commit/02c05e392198f3ac0b1cd9132d37b0c147405632))
+* Workflow Bot -- Build Dictionaries ([#3205](https://github.com/digger-yu/cspell-dicts/issues/3205)) ([8a56dba](https://github.com/digger-yu/cspell-dicts/commit/8a56dba2acc59b9b1345d7657cd7aefcb4932824))
+* Workflow Bot -- Build Dictionaries ([#3298](https://github.com/digger-yu/cspell-dicts/issues/3298)) ([8f63130](https://github.com/digger-yu/cspell-dicts/commit/8f631309d312cea2fcdde4a5700d2e619fcdc584))
+
 ## [2.1.23](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en-gb-mit@2.1.22...@cspell/dict-en-gb-mit@2.1.23) (2024-06-20)
 
 

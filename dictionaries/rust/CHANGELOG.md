@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.0.6](https://github.com/digger-yu/cspell-dicts/compare/@cspell/dict-rust-v4.0.5...@cspell/dict-rust@4.0.6) (2024-09-20)
+
+
+### Updates and Bug Fixes
+
+* add `powf` and `powi` to rust dictionary ([#3131](https://github.com/digger-yu/cspell-dicts/issues/3131)) ([84ab85e](https://github.com/digger-yu/cspell-dicts/commit/84ab85ebb24aceab7b3485727105d280621f4d3f))
+* Add some full stack related terms ([#3415](https://github.com/digger-yu/cspell-dicts/issues/3415)) ([94b3556](https://github.com/digger-yu/cspell-dicts/commit/94b355671d87cd6a8691c1fbae5cefba9a3a5170))
+* Add tokio ([#3282](https://github.com/digger-yu/cspell-dicts/issues/3282)) ([7c330ee](https://github.com/digger-yu/cspell-dicts/commit/7c330ee8fa9de714b60738f92a483309f261619f))
+* Workflow Bot -- Build Dictionaries ([#3133](https://github.com/digger-yu/cspell-dicts/issues/3133)) ([b8c7d1a](https://github.com/digger-yu/cspell-dicts/commit/b8c7d1a1eab2b0756f8cc188f858568e89d5d95b))
+* Workflow Bot -- Build Dictionaries ([#3284](https://github.com/digger-yu/cspell-dicts/issues/3284)) ([2c65c07](https://github.com/digger-yu/cspell-dicts/commit/2c65c073fd88ccaddb3dcdfa4be0f08407d25779))
+
 ## [4.0.5](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-rust@4.0.4...@cspell/dict-rust@4.0.5) (2024-07-25)
 
 

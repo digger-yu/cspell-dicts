@@ -22,6 +22,13 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [4.0.2](https://github.com/digger-yu/cspell-dicts/compare/@cspell/dict-uk-ua-v4.0.1...@cspell/dict-uk-ua@4.0.2) (2024-09-20)
+
+
+### Updates and Bug Fixes
+
+* add uk dictionary replacement map (`ʼ` -&gt; `'`) ([#3157](https://github.com/digger-yu/cspell-dicts/issues/3157)) ([9f92fff](https://github.com/digger-yu/cspell-dicts/commit/9f92fffe7ebb3cfdf3573163e7ab4f4262e4454f))
+
 ## [4.0.1](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-uk-ua@4.0.0...@cspell/dict-uk-ua@4.0.1) (2024-05-16)
 
 

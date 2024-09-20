@@ -22,6 +22,18 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [4.0.11](https://github.com/digger-yu/cspell-dicts/compare/@cspell/dict-php-v4.0.10...@cspell/dict-php@4.0.11) (2024-09-20)
+
+
+### Updates and Bug Fixes
+
+* Update PHP dictionary ([#3272](https://github.com/digger-yu/cspell-dicts/issues/3272)) ([8a81c98](https://github.com/digger-yu/cspell-dicts/commit/8a81c981c0a5634e512e226df373aa9d52fbe51d))
+* Workflow Bot -- Build Dictionaries ([#2982](https://github.com/digger-yu/cspell-dicts/issues/2982)) ([28d4083](https://github.com/digger-yu/cspell-dicts/commit/28d4083c238b330772186ff7bb25f8ace97e8e61))
+* Workflow Bot -- Build Dictionaries ([#3167](https://github.com/digger-yu/cspell-dicts/issues/3167)) ([a94f73b](https://github.com/digger-yu/cspell-dicts/commit/a94f73b4ff267e143d97208cf1c93b2b772bea51))
+* Workflow Bot -- Build Dictionaries ([#3275](https://github.com/digger-yu/cspell-dicts/issues/3275)) ([7569e95](https://github.com/digger-yu/cspell-dicts/commit/7569e956420a7aafa17467b65c0c8a3ab69751f7))
+* Workflow Bot -- Build Dictionaries ([#3502](https://github.com/digger-yu/cspell-dicts/issues/3502)) ([8e84a1a](https://github.com/digger-yu/cspell-dicts/commit/8e84a1a7dd297f136b670c772634d476fbc7c762))
+* Workflow Bot -- Build Dictionaries ([#3510](https://github.com/digger-yu/cspell-dicts/issues/3510)) ([a684808](https://github.com/digger-yu/cspell-dicts/commit/a684808a8e36f8fb5c5b2d282dc336206b520cd7))
+
 ## [4.0.10](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-php@4.0.9...@cspell/dict-php@4.0.10) (2024-08-26)
 
 

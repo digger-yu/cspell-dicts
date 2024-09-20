@@ -3,6 +3,26 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.3.24](https://github.com/digger-yu/cspell-dicts/compare/@cspell/dict-en_us-v4.3.23...@cspell/dict-en_us@4.3.24) (2024-09-20)
+
+
+### Updates and Bug Fixes
+
+* fix some English spelling issues. ([#3296](https://github.com/digger-yu/cspell-dicts/issues/3296)) ([eabb25a](https://github.com/digger-yu/cspell-dicts/commit/eabb25a790c0d44b6c929cc6cc42f784c261fa11))
+* Make sure acronyms are part of the dictionary ([#3227](https://github.com/digger-yu/cspell-dicts/issues/3227)) ([008008d](https://github.com/digger-yu/cspell-dicts/commit/008008d2a78a9ec9c072305f22f176156eb015af))
+* Remove `persistance` from en_US ([#3114](https://github.com/digger-yu/cspell-dicts/issues/3114)) ([1d6abd7](https://github.com/digger-yu/cspell-dicts/commit/1d6abd7ddeeb7f5fbe37141d8230b585742df145))
+* Remove lower case `colum` from English dictionaries. ([#3312](https://github.com/digger-yu/cspell-dicts/issues/3312)) ([63a84ab](https://github.com/digger-yu/cspell-dicts/commit/63a84abee92c461a9fb495d5a0060adc0fdee1a3))
+* update en-us dict ([#3220](https://github.com/digger-yu/cspell-dicts/issues/3220)) ([9909092](https://github.com/digger-yu/cspell-dicts/commit/9909092f94eebac99d960e37a12d6f1a1180079d))
+* Workflow Bot -- Build Dictionaries ([#2963](https://github.com/digger-yu/cspell-dicts/issues/2963)) ([e5b5682](https://github.com/digger-yu/cspell-dicts/commit/e5b5682e112fe8f888a399016932972fc7763aa2))
+* Workflow Bot -- Build Dictionaries ([#2982](https://github.com/digger-yu/cspell-dicts/issues/2982)) ([28d4083](https://github.com/digger-yu/cspell-dicts/commit/28d4083c238b330772186ff7bb25f8ace97e8e61))
+* Workflow Bot -- Build Dictionaries ([#2999](https://github.com/digger-yu/cspell-dicts/issues/2999)) ([be5878e](https://github.com/digger-yu/cspell-dicts/commit/be5878ec21728dfc833917959e549b93d9d0e9b1))
+* Workflow Bot -- Build Dictionaries ([#3103](https://github.com/digger-yu/cspell-dicts/issues/3103)) ([02c05e3](https://github.com/digger-yu/cspell-dicts/commit/02c05e392198f3ac0b1cd9132d37b0c147405632))
+* Workflow Bot -- Build Dictionaries ([#3115](https://github.com/digger-yu/cspell-dicts/issues/3115)) ([6d6e1ef](https://github.com/digger-yu/cspell-dicts/commit/6d6e1efda472021fedc302b4aabffae677331ce3))
+* Workflow Bot -- Build Dictionaries ([#3205](https://github.com/digger-yu/cspell-dicts/issues/3205)) ([8a56dba](https://github.com/digger-yu/cspell-dicts/commit/8a56dba2acc59b9b1345d7657cd7aefcb4932824))
+* Workflow Bot -- Build Dictionaries ([#3226](https://github.com/digger-yu/cspell-dicts/issues/3226)) ([2e83ef7](https://github.com/digger-yu/cspell-dicts/commit/2e83ef7dcf6e12d83bfedca3263c2deb55baae73))
+* Workflow Bot -- Build Dictionaries ([#3298](https://github.com/digger-yu/cspell-dicts/issues/3298)) ([8f63130](https://github.com/digger-yu/cspell-dicts/commit/8f631309d312cea2fcdde4a5700d2e619fcdc584))
+* Workflow Bot -- Build Dictionaries ([#3315](https://github.com/digger-yu/cspell-dicts/issues/3315)) ([2c55227](https://github.com/digger-yu/cspell-dicts/commit/2c55227af65eaeb1798ffc9d568c8ff8e5cbd022))
+
 ## [4.3.23](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en_us@4.3.22...@cspell/dict-en_us@4.3.23) (2024-06-20)
 
 

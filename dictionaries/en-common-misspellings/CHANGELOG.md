@@ -1,5 +1,15 @@
 # Change Log
 
+## [2.0.5](https://github.com/digger-yu/cspell-dicts/compare/@cspell/dict-en-common-misspellings-v2.0.4...@cspell/dict-en-common-misspellings@2.0.5) (2024-09-20)
+
+
+### Updates and Bug Fixes
+
+* add POSIX and fix for `doens't` ([#3436](https://github.com/digger-yu/cspell-dicts/issues/3436)) ([736cbd8](https://github.com/digger-yu/cspell-dicts/commit/736cbd84e216fee438031497a0656a19a962e61f))
+* fix some English spelling issues. ([#3296](https://github.com/digger-yu/cspell-dicts/issues/3296)) ([eabb25a](https://github.com/digger-yu/cspell-dicts/commit/eabb25a790c0d44b6c929cc6cc42f784c261fa11))
+* Remove lower case `colum` from English dictionaries. ([#3312](https://github.com/digger-yu/cspell-dicts/issues/3312)) ([63a84ab](https://github.com/digger-yu/cspell-dicts/commit/63a84abee92c461a9fb495d5a0060adc0fdee1a3))
+* update en-common-misspellings dict ([#3182](https://github.com/digger-yu/cspell-dicts/issues/3182)) ([d232591](https://github.com/digger-yu/cspell-dicts/commit/d23259196f44cebe9f2039e94fe10fc38972afb4))
+
 ## [2.0.4](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en-common-misspellings@2.0.3...@cspell/dict-en-common-misspellings@2.0.4) (2024-08-04)
 
 
