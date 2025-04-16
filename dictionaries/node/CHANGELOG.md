@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.0.8](https://github.com/digger-yu/cspell-dicts/compare/@cspell/dict-node@5.0.7...@cspell/dict-node@5.0.8) (2025-04-16)
+
+
+### Updates and Bug Fixes
+
+* Add `corepack` to tools ([#3773](https://github.com/digger-yu/cspell-dicts/issues/3773)) ([6130c25](https://github.com/digger-yu/cspell-dicts/commit/6130c25eed04b21e530eceb136528fcd1ac76862))
+* add attw, markdownlintignore, npmjs words ([#4210](https://github.com/digger-yu/cspell-dicts/issues/4210)) ([1a91661](https://github.com/digger-yu/cspell-dicts/commit/1a916615490980c0d598b48379635a58ceb33a4f))
+* Adjust dictionary names ([#3958](https://github.com/digger-yu/cspell-dicts/issues/3958)) ([8a96533](https://github.com/digger-yu/cspell-dicts/commit/8a96533bec21280103740868b81559437c413501))
+* Workflow Bot -- Build Dictionaries ([#3771](https://github.com/digger-yu/cspell-dicts/issues/3771)) ([2cfa1eb](https://github.com/digger-yu/cspell-dicts/commit/2cfa1ebce68e789285f8bf8f7b3e1402cb4c1b80))
+* Workflow Bot -- Build Dictionaries ([#4212](https://github.com/digger-yu/cspell-dicts/issues/4212)) ([347217e](https://github.com/digger-yu/cspell-dicts/commit/347217e0493ac89335829185365f97148354f821))
+
 ## [5.0.7](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-node@5.0.6...@cspell/dict-node@5.0.7) (2025-04-01)
 
 

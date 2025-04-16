@@ -22,6 +22,14 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [3.0.7](https://github.com/digger-yu/cspell-dicts/compare/@cspell/dict-scientific-terms-us@3.0.6...@cspell/dict-scientific-terms-us@3.0.7) (2025-04-16)
+
+
+### Updates and Bug Fixes
+
+* Adjust dictionary names ([#3958](https://github.com/digger-yu/cspell-dicts/issues/3958)) ([8a96533](https://github.com/digger-yu/cspell-dicts/commit/8a96533bec21280103740868b81559437c413501))
+* Workflow Bot -- Build Dictionaries ([#3771](https://github.com/digger-yu/cspell-dicts/issues/3771)) ([2cfa1eb](https://github.com/digger-yu/cspell-dicts/commit/2cfa1ebce68e789285f8bf8f7b3e1402cb4c1b80))
+
 ## [3.0.6](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-scientific-terms-us@3.0.5...@cspell/dict-scientific-terms-us@3.0.6) (2024-12-30)
 
 

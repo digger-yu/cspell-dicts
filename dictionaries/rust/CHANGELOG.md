@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.0.12](https://github.com/digger-yu/cspell-dicts/compare/@cspell/dict-rust@4.0.11...@cspell/dict-rust@4.0.12) (2025-04-16)
+
+
+### Updates and Bug Fixes
+
+* add missing rust terms ([#3804](https://github.com/digger-yu/cspell-dicts/issues/3804)) ([eb95572](https://github.com/digger-yu/cspell-dicts/commit/eb95572987fc447638f53c0bb250295489a9ab62))
+* Adjust dictionary names ([#3958](https://github.com/digger-yu/cspell-dicts/issues/3958)) ([8a96533](https://github.com/digger-yu/cspell-dicts/commit/8a96533bec21280103740868b81559437c413501))
+* Workflow Bot -- Build Dictionaries ([#3805](https://github.com/digger-yu/cspell-dicts/issues/3805)) ([289644b](https://github.com/digger-yu/cspell-dicts/commit/289644b6605102db73d68683cb649ba73458364c))
+
 ## [4.0.11](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-rust@4.0.10...@cspell/dict-rust@4.0.11) (2024-12-30)
 
 

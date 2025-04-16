@@ -3,6 +3,25 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.2.18](https://github.com/digger-yu/cspell-dicts/compare/@cspell/dict-python@4.2.17...@cspell/dict-python@4.2.18) (2025-04-16)
+
+
+### Updates and Bug Fixes
+
+* Add "maxsplit" to python.txt dictionary ([#3663](https://github.com/digger-yu/cspell-dicts/issues/3663)) ([a448054](https://github.com/digger-yu/cspell-dicts/commit/a4480541fbcc6b4709e0b03367f56b59fffaf424))
+* Add memo and nano to software terms ([#4165](https://github.com/digger-yu/cspell-dicts/issues/4165)) ([aaf8998](https://github.com/digger-yu/cspell-dicts/commit/aaf899837c3f0fd8df32a679b956bc7ad99a2666))
+* Added some Python package names ([#3850](https://github.com/digger-yu/cspell-dicts/issues/3850)) ([a093c9d](https://github.com/digger-yu/cspell-dicts/commit/a093c9d9a27073af2762e0f37d27472451c31bf5))
+* Adjust dictionary names ([#3958](https://github.com/digger-yu/cspell-dicts/issues/3958)) ([8a96533](https://github.com/digger-yu/cspell-dicts/commit/8a96533bec21280103740868b81559437c413501))
+* Workflow Bot -- Build Dictionaries ([#3683](https://github.com/digger-yu/cspell-dicts/issues/3683)) ([a47d7cb](https://github.com/digger-yu/cspell-dicts/commit/a47d7cbb2b28cf7570734c01c2c9d1c87316e94c))
+* Workflow Bot -- Build Dictionaries ([#3851](https://github.com/digger-yu/cspell-dicts/issues/3851)) ([0c9be81](https://github.com/digger-yu/cspell-dicts/commit/0c9be814359ee9f49bf04596701db77e2a614bef))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @cspell/dict-data-science bumped to 2.0.9
+
 ## [4.2.17](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-python@4.2.16...@cspell/dict-python@4.2.17) (2025-04-03)
 
 
