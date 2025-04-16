@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.0.12](https://github.com/digger-yu/cspell-dicts/compare/@cspell/dict-filetypes@3.0.11...@cspell/dict-filetypes@3.0.12) (2025-04-16)
+
+
+### Updates and Bug Fixes
+
+* Add Astro to TypeScript dictionary settings ([#3717](https://github.com/digger-yu/cspell-dicts/issues/3717)) ([be7fdb3](https://github.com/digger-yu/cspell-dicts/commit/be7fdb31f9e65f76b5410d353e24ac775631cf8a))
+* add lockb to filetypes ([#3872](https://github.com/digger-yu/cspell-dicts/issues/3872)) ([956db0a](https://github.com/digger-yu/cspell-dicts/commit/956db0a33f7a0f23a87b34451fe7cfb44c5e68dc))
+* Add nupkg ([#4073](https://github.com/digger-yu/cspell-dicts/issues/4073)) ([5512a0c](https://github.com/digger-yu/cspell-dicts/commit/5512a0c15933dfaab52c33deca7ddb6e5cebf904))
+* Adjust dictionary names ([#3958](https://github.com/digger-yu/cspell-dicts/issues/3958)) ([8a96533](https://github.com/digger-yu/cspell-dicts/commit/8a96533bec21280103740868b81559437c413501))
+* Workflow Bot -- Build Dictionaries ([#3718](https://github.com/digger-yu/cspell-dicts/issues/3718)) ([d4c72e4](https://github.com/digger-yu/cspell-dicts/commit/d4c72e49743a15fb7babc80142ef0817d2d7b394))
+
 ## [3.0.11](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-filetypes@3.0.10...@cspell/dict-filetypes@3.0.11) (2025-02-10)
 
 

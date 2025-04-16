@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.14](https://github.com/digger-yu/cspell-dicts/compare/@cspell/dict-docker@1.1.13...@cspell/dict-docker@1.1.14) (2025-04-16)
+
+
+### Updates and Bug Fixes
+
+* Add dind to docker ([#4270](https://github.com/digger-yu/cspell-dicts/issues/4270)) ([5948f26](https://github.com/digger-yu/cspell-dicts/commit/5948f2614e4a18bb2d65c7e1f6137f9ac8e6c842))
+* add hadolint to docker dictionary ([#3677](https://github.com/digger-yu/cspell-dicts/issues/3677)) ([559a4ac](https://github.com/digger-yu/cspell-dicts/commit/559a4ac63080631aa8c66da6a6a0df31e6ce61d3))
+* Adjust dictionary names ([#3958](https://github.com/digger-yu/cspell-dicts/issues/3958)) ([8a96533](https://github.com/digger-yu/cspell-dicts/commit/8a96533bec21280103740868b81559437c413501))
+
 ## [1.1.13](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-docker@1.1.12...@cspell/dict-docker@1.1.13) (2025-04-07)
 
 

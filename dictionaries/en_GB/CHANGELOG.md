@@ -3,6 +3,35 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.1.65](https://github.com/digger-yu/cspell-dicts/compare/@cspell/dict-en-gb@4.1.64...@cspell/dict-en-gb@4.1.65) (2025-04-16)
+
+
+### Updates and Bug Fixes
+
+* Add back missing English words ([#4119](https://github.com/digger-yu/cspell-dicts/issues/4119)) ([22126fb](https://github.com/digger-yu/cspell-dicts/commit/22126fb65d0d2edbb0a627a3a013a988de41bc49))
+* Workflow Bot -- Build Dictionaries ([#3764](https://github.com/digger-yu/cspell-dicts/issues/3764)) ([6a3e0cd](https://github.com/digger-yu/cspell-dicts/commit/6a3e0cd054aedcacfc83fe717649183a7107b1ac))
+* Workflow Bot -- Build Dictionaries ([#3768](https://github.com/digger-yu/cspell-dicts/issues/3768)) ([5de522b](https://github.com/digger-yu/cspell-dicts/commit/5de522ba1557f8a83fc396c44d77cac1e63e546b))
+* Workflow Bot -- Build Dictionaries ([#3788](https://github.com/digger-yu/cspell-dicts/issues/3788)) ([17390bc](https://github.com/digger-yu/cspell-dicts/commit/17390bcd6d457603eddaf62d506a4a2f0f8ae482))
+* Workflow Bot -- Build Dictionaries ([#3843](https://github.com/digger-yu/cspell-dicts/issues/3843)) ([bfa0e37](https://github.com/digger-yu/cspell-dicts/commit/bfa0e3768426e06971b517eb4dd26148aece100e))
+* Workflow Bot -- Build Dictionaries ([#3976](https://github.com/digger-yu/cspell-dicts/issues/3976)) ([92cc01c](https://github.com/digger-yu/cspell-dicts/commit/92cc01cba7bbfc4b600408507e584442972088b0))
+* Workflow Bot -- Build Dictionaries ([#4019](https://github.com/digger-yu/cspell-dicts/issues/4019)) ([b116fdc](https://github.com/digger-yu/cspell-dicts/commit/b116fdcfa5f4e31f652891fd240058d5755e1950))
+* Workflow Bot -- Build Dictionaries ([#4106](https://github.com/digger-yu/cspell-dicts/issues/4106)) ([a6ce4a2](https://github.com/digger-yu/cspell-dicts/commit/a6ce4a2891ecc574423a657f69814a809348f532))
+* Workflow Bot -- Build Dictionaries ([#4135](https://github.com/digger-yu/cspell-dicts/issues/4135)) ([2b6a4e4](https://github.com/digger-yu/cspell-dicts/commit/2b6a4e436a6a902740194096b183270d529f52d2))
+* Workflow Bot -- Build Dictionaries ([#4147](https://github.com/digger-yu/cspell-dicts/issues/4147)) ([c28c288](https://github.com/digger-yu/cspell-dicts/commit/c28c288859fd2c5fe17a10dbc0eb264ec6d14f46))
+* Workflow Bot -- Build Dictionaries ([#4182](https://github.com/digger-yu/cspell-dicts/issues/4182)) ([2eec6cd](https://github.com/digger-yu/cspell-dicts/commit/2eec6cda280ea293905f32830dcd19014aaa1293))
+* Workflow Bot -- Build Dictionaries ([#4228](https://github.com/digger-yu/cspell-dicts/issues/4228)) ([f2e8fe3](https://github.com/digger-yu/cspell-dicts/commit/f2e8fe3d15a5755a52458aa2a11f5738cf7646f9))
+* Workflow Bot -- Build Dictionaries ([#4235](https://github.com/digger-yu/cspell-dicts/issues/4235)) ([cb96bfd](https://github.com/digger-yu/cspell-dicts/commit/cb96bfd8b81f38b62af1b87704dfb2de8f651cc9))
+* Workflow Bot -- Build Dictionaries ([#4246](https://github.com/digger-yu/cspell-dicts/issues/4246)) ([80d32f5](https://github.com/digger-yu/cspell-dicts/commit/80d32f5f2cfef5bb8eac8af7c3f218861109a1ef))
+* Workflow Bot -- Build Dictionaries ([#4257](https://github.com/digger-yu/cspell-dicts/issues/4257)) ([ccd5d14](https://github.com/digger-yu/cspell-dicts/commit/ccd5d149f3c705da32692e4298ab6ea7bae31cea))
+* Workflow Bot -- Build Dictionaries ([#4287](https://github.com/digger-yu/cspell-dicts/issues/4287)) ([9ab559e](https://github.com/digger-yu/cspell-dicts/commit/9ab559e17e9d5ffba2408d95d985c13bf2739d2a))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * devDependencies
+    * @cspell/dict-en-shared bumped to 1.0.29
+
 ## [4.1.64](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en-gb@4.1.63...@cspell/dict-en-gb@4.1.64) (2025-04-13)
 
 

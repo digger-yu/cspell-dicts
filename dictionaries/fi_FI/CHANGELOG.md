@@ -1,5 +1,17 @@
 # Change Log
 
+## [1.2.0](https://github.com/digger-yu/cspell-dicts/compare/@cspell/dict-fi-fi@1.1.1...@cspell/dict-fi-fi@1.2.0) (2025-04-16)
+
+
+### Features
+
+* Finnish dictionary ([#3774](https://github.com/digger-yu/cspell-dicts/issues/3774)) ([7499383](https://github.com/digger-yu/cspell-dicts/commit/7499383daa691badeac714008976cca74230b391))
+
+
+### Updates and Bug Fixes
+
+* Adjust dictionary names ([#3958](https://github.com/digger-yu/cspell-dicts/issues/3958)) ([8a96533](https://github.com/digger-yu/cspell-dicts/commit/8a96533bec21280103740868b81559437c413501))
+
 ## [1.1.1](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-fi-fi@1.1.0...@cspell/dict-fi-fi@1.1.1) (2024-12-30)
 
 
