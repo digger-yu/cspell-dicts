@@ -1,5 +1,17 @@
 # Change Log
 
+## [1.1.3](https://github.com/digger-yu/cspell-dicts/compare/@cspell/dict-gaming-terms@1.1.2...@cspell/dict-gaming-terms@1.1.3) (2025-08-31)
+
+
+### Updates and Bug Fixes
+
+* add 'boop' ([#4211](https://github.com/digger-yu/cspell-dicts/issues/4211)) ([ff66b5d](https://github.com/digger-yu/cspell-dicts/commit/ff66b5d04094048afdac3153dace1edc6d8a7fdc))
+* Add words to Unity ([#4197](https://github.com/digger-yu/cspell-dicts/issues/4197)) ([b6fb6c4](https://github.com/digger-yu/cspell-dicts/commit/b6fb6c49ac396253f740dc963bc8314201b5755d))
+* Improve install documentation ([#4640](https://github.com/digger-yu/cspell-dicts/issues/4640)) ([ce83729](https://github.com/digger-yu/cspell-dicts/commit/ce837295163125b6ff57494d9de1609edc6204e6))
+* Update unity.txt, fix comment ([#4203](https://github.com/digger-yu/cspell-dicts/issues/4203)) ([14ddcc5](https://github.com/digger-yu/cspell-dicts/commit/14ddcc5c06c5fcaf2de088e60d6e30a73008184b))
+* Workflow Bot -- Build Dictionaries ([#4204](https://github.com/digger-yu/cspell-dicts/issues/4204)) ([11f895f](https://github.com/digger-yu/cspell-dicts/commit/11f895fd5a30a19551617c2804b24c25331a98be))
+* Workflow Bot -- Build Dictionaries ([#4212](https://github.com/digger-yu/cspell-dicts/issues/4212)) ([347217e](https://github.com/digger-yu/cspell-dicts/commit/347217e0493ac89335829185365f97148354f821))
+
 ## [1.1.2](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-gaming-terms@1.1.1...@cspell/dict-gaming-terms@1.1.2) (2025-07-09)
 
 

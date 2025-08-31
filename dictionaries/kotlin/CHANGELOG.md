@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.1.2](https://github.com/digger-yu/cspell-dicts/compare/@cspell/dict-kotlin@1.1.1...@cspell/dict-kotlin@1.1.2) (2025-08-31)
+
+
+### Updates and Bug Fixes
+
+* Improve install documentation ([#4640](https://github.com/digger-yu/cspell-dicts/issues/4640)) ([ce83729](https://github.com/digger-yu/cspell-dicts/commit/ce837295163125b6ff57494d9de1609edc6204e6))
+
 ## [1.1.1](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-kotlin@1.1.0...@cspell/dict-kotlin@1.1.1) (2025-07-09)
 
 
